@@ -42,7 +42,7 @@ Vazifasi: Omborlardagi tovarlarning miqdori va tannarxi bo'yicha balansni saqlas
 📈 Hisobotlar (Отчеты)
 Колдиклар ва айланmalar — Tovarlarning kirimi, chiqimi va davr oxiridagi qoldig'ini ko'rsatuvchi tahliliy hisobot (СКД).
 
-![oyna](screenshots/КолдикВаАйланмалар.JPG)
+![oyna](screenshots/Отч_КолдикВаАйланмалар.JPG)
 
 🛠 Texnologiyalar
 Platforma: 1C:Enterprise 8.3
