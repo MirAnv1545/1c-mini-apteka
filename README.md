@@ -4,6 +4,8 @@ Ushbu loyiha dorixonalar uchun mo'ljallangan soddalashtirilgan mini-ERP tizimi b
 🎯 Loyihaning maqsadi
 Kichik hajmdagi dorixonalar uchun tovarlar harakatini boshqarish va real vaqtdagi zaxiralarni kuzatish funksiyalarini namoyish etish.
 
+![Asosiy oyna](screenshots/1с-МиниАптека.JPG)
+
 ✨ Asosiy Funksionallik
 Tovarlar hisobi: Dorilarning o'lchov birliklari va qadoqdagi soni bo'yicha batafsil yuritilishi.
 
@@ -12,7 +14,9 @@ Ombor operatsiyalari: Tovar kirimi (Поступление) va tovar taqsimoti (
 Analitika: Qoldiqlar va aylanmalar bo'yicha SKD asosidagi hisobotlar.
 
 🏗 Texnik Arxitektura (Metadata)
+
 📁 Ma'lumotnomalar (Справочники)
+
 Номенклатура — Dorilar va tovarlar ro'yxati (o'lchov birligi va narx rekvizitlari bilan).
 
 Контрагенты — Tovar yetkazib beruvchilar va hamkorlar.
@@ -37,6 +41,8 @@ Vazifasi: Omborlardagi tovarlarning miqdori va tannarxi bo'yicha balansni saqlas
 
 📈 Hisobotlar (Отчеты)
 Колдиклар ва айланmalar — Tovarlarning kirimi, chiqimi va davr oxiridagi qoldig'ini ko'rsatuvchi tahliliy hisobot (СКД).
+
+![oyna](screenshots/КолдикВаАйланмалар.JPG)
 
 🛠 Texnologiyalar
 Platforma: 1C:Enterprise 8.3
